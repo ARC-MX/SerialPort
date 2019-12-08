@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/6/6 22:46:28。
+     1>项目“E:\Project\C++\SerialPort\SerialPort\SerialPort\SerialPort.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtRccSetDependencies:
+         "C:\Qt\Qt5.11.2\5.11.2\msvc2015_64\bin\rcc.exe" --list "SerialPort.qrc" > "x64\Debug\rcc_list.txt" 2> nul
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.11.2\5.11.2\msvc2015_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.11.2\5.11.2\msvc2015_64\include\QtCore /IC:\Qt\Qt5.11.2\5.11.2\msvc2015_64\include\QtGui /IC:\Qt\Qt5.11.2\5.11.2\msvc2015_64\include\QtANGLE /IC:\Qt\Qt5.11.2\5.11.2\msvc2015_64\include\QtSerialPort /IC:\Qt\Qt5.11.2\5.11.2\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /MP /Od /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SERIALPORT_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt SerialPort.cpp
+         SerialPort.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\C++\SerialPort\SerialPort\x64\Debug\\SerialPort.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.11.2\5.11.2\msvc2015_64\lib C:\Qt\Qt5.11.2\5.11.2\msvc2015_64\lib\qtmaind.lib C:\Qt\Qt5.11.2\5.11.2\msvc2015_64\lib\Qt5Cored.lib C:\Qt\Qt5.11.2\5.11.2\msvc2015_64\lib\Qt5Guid.lib C:\Qt\Qt5.11.2\5.11.2\msvc2015_64\lib\Qt5SerialPortd.lib C:\Qt\Qt5.11.2\5.11.2\msvc2015_64\lib\Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Project\C++\SerialPort\SerialPort\x64\Debug\SerialPort.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\C++\SerialPort\SerialPort\x64\Debug\SerialPort.lib" /MACHINE:X64 x64\Debug\SerialPort.res
+         x64\Debug\main.obj
+         x64\Debug\SerialPort.obj
+         x64\Debug\qrc_SerialPort.obj
+         x64\Debug\moc_SerialPort.obj
+         SerialPort.vcxproj -> E:\Project\C++\SerialPort\SerialPort\x64\Debug\SerialPort.exe
+     1>已完成生成项目“E:\Project\C++\SerialPort\SerialPort\SerialPort\SerialPort.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.53
